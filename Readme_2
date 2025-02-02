@@ -1,0 +1,12 @@
+Use npm init -y to initialize node module
+install relevant npm libraries
+using npm install sql2, jsonwebtoken , bcryptjs, express 
+
+use sql to creade a databaseRole_Authorization
+Add relevant tables 
+Initialize through node seed.js
+the run server.js
+
+
+I tried to add front end functionalities but ran into errors in javascript(some files are include)
+Databases addes data correctly but runs runs into problems while establishing relationships between achievemnt table and parent table. 
